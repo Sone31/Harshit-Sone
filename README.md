@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Sone</h1>
-<h3 align="center">A passionate software tester from India</h3>
+<h3 align="center">A passionate Software Tester from India</h3>
 
 - 🔭 I’m currently working on **Banking project**
 
